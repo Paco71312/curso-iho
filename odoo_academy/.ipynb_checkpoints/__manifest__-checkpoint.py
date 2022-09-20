@@ -10,7 +10,7 @@
         -Sessions
         -Attendees
     """,
-
+    'license':'LGPL-3',
     'author': 'Paco',
     'Website': 'https://iho.com.mx/home/',
     'category': 'Training',
