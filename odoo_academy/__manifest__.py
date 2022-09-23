@@ -12,6 +12,7 @@
     """,
 
     'author': 'Paco',
+    'license': 'LGPL-3',
     'Website': 'https://iho.com.mx/home/',
     'category': 'Training',
     'version': '0.1',

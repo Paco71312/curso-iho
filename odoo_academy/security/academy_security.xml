@@ -2,7 +2,7 @@
 <!--aqui se crea un grupo para un modulo en odoo, el artibuto del modelo-->
 <odoo>
     <record id="group_academy_admin" model="res.groups">
-        <field name='name'>Academy/Admin</field>
+        <field name='name'>Academy / Admin</field>
     </record>
     <!--Aqui se crea una regla de registro -->
     <record id="only_active_modify" model="ir.rule">
